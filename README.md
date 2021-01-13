@@ -22,7 +22,7 @@ Android ArcGIS SDK
 
 + Treasure hunting
 
-|   Initial state   | Find progress | Treasure found
+|   Initial state   | Hunting progress | Treasure found
 | ----------- | ----------- |  ----------- | 
 |<img src="https://github.com/SherryJYC/TreasureHunting/blob/main/misc/find1.png" alt="login" width="300"/>    | <img src="https://github.com/SherryJYC/TreasureHunting/blob/main/misc/find2.png" alt="login" width="300"/>    | <img src="https://github.com/SherryJYC/TreasureHunting/blob/main/misc/find3.png" alt="login" width="300"/>    | 
 
