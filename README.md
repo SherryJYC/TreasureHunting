@@ -35,4 +35,4 @@ Android ArcGIS SDK
 
 
 ## Author
-Yuchang
+Yuchang Jiang
