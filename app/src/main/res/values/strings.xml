@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Zelda in Honggerberg</string>
+
+    <!--Toast alerting and Message-->
+    <string name="wait_load">Please wait until feature layers loaded</string>
+    <string name="fail_load">Load Fail!</string>
+    <string name="ok_load">Load Success!</string>
+    <string name="found_treasure">"You've found this treasure!"</string>
+    <string name="empty_treasure">Empty Treasure Collection</string>
+    <string name="empty_track">Empty Track</string>
+    <string name="ok_upload">Upload Successfully!</string>
+    <string name="fail_search">Search Fail!</string>
+    <string name="error">Error!</string>
+    <string name="social_sharing">"Do you want to share your game result and exit app ?"</string>
+    <string name="get_bonus">You got bonus!</string>
+    <string name="permission_denied">"Permission Denied! Cannot Access to Game!"</string>
+    <string name="unvalid_user">Unvalid User ID</string>
+
+    <!--MainActivity-->
+    <string name="clicktask">Check out Task</string>
+    <string name="clickhelp">Help</string>
+    <string name="user_text">Your User ID:</string>
+    <string name="review">Track Review</string>
+    <string name="upload">Track Upload</string>
+    <string name="load_status">Feature Load Status</string>
+    <string name="track_load">Track Loaded</string>
+    <string name="treasure_load">Treasure Loaded</string>
+
+    <!--URL for feature layer-->
+    <string name="url_track">https://services1.arcgis.com/i9MtZ1vtgD3gTnyL/arcgis/rest/services/track/FeatureServer/0</string>
+    <string name="url_treasure">https://services1.arcgis.com/i9MtZ1vtgD3gTnyL/arcgis/rest/services/treassure/FeatureServer/0</string>
+
+    <!--CompassActivity-->
+    <string name="header1">Treasure Info</string>
+    <string name="coin">Coin:</string>
+    <string name="lat">Latitude:</string>
+    <string name="lon">Longitude:</string>
+    <string name="temp_unit">Degree</string>
+    <string name="dist_unit">Meter</string>
+    <string name="bear_unit">Degree</string>
+    <string name="speed_unit">m/s</string>
+    <string name="geofence_txt">Approaching...</string>
+    <string name="totalcoin">Your Total Coin:</string>
+    <string name="goback">Return Main Page</string>
+    <string name="speedPlaceholder">Calculating...</string>
+
+    <!--Review Activity-->
+    <string name="search">Search</string>
+
+    <!--WelcomeActivity-->
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="welcome">Start As Guest</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="login">User ID</string>
+    <string name="login_text"></string>
+    <string name="login_btn">Sign in</string>
+
+    <!--HelpActivity-->
+    <string name="helpHeaderTxt">Game Rules</string>
+    <!--<string name="helpRuleTxt">1. In the main page, you can select one treasure item and will be directed to compass page. \n 2. When you are 30 meter closer to treasure, task is finished. \n 3. Your obtained coin of one task = coin of treasure + (speed - 2) x 1 + (temperature - 20) x 2 \n 4. After completing task, you can go back to main page to select another treasure. \n-->
+        <!--5. Completed treasure is marked as 'COLLECTED' and can NOT be selected repeatedly. \n-->
+        <!--6. You can upload tracks and treasure, or review all existing tracks.\n-->
+        <!--7. Before exiting app, you can share your scores by SMS, email...-->
+    <!--</string>-->
+</resources>

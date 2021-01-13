@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black_overlay">#66000000</color>
+
+    <!--add colors defined by ETH-->
+    <color name="blueETHlight">#0069B4</color>
+    <color name="blueETH">#1f407a</color>
+    <color name="whiteETH">#ffffff</color>
+</resources>
